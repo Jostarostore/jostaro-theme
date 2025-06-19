@@ -1,0 +1,9 @@
+{
+  "name": "JOSTARO Theme",
+  "version": "1.0.0",
+  "author": "Jostaro Studio",
+  "description": "ثيم بيكسلي مستوحى من ألعاب السولز",
+  "preview": "jostaro_cover.png",
+  "rtl": true,
+  "salla_min_version": "1.6.0"
+}
